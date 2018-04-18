@@ -1,0 +1,7 @@
+#IDE configuration files
+.idea
+.vscode
+\.editorconfig
+
+//Bak files
+*.bak
